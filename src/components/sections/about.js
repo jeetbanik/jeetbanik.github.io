@@ -144,7 +144,7 @@ const About = () => {
             <p>Hi there! I’m currently a final year student pursuing B.Sc. (Hons.) in Data Science and Analytics at <a href="https://www.jainuniversity.ac.in/">Jain University</a>, Bangalore.</p>
 
             <p>
-              I mostly deal with numbers and models, providing insights scientifically. I'm learning my craft by working on side projects and guidance from some great mentors and peers. I love to develop things which help the community! The domain of AI has always been intriguing to me since boyhood and my goal is to provide significant contributions toward it someday.
+              I mostly deal with numbers and models, providing insights statistically and scientifically. I'm learning my craft by working on side projects and guidance from some great mentors and peers. I love to develop things which help the community! The domain of AI has always been intriguing to me since boyhood and my goal is to provide significant contributions toward it someday.
             </p>
 
             <p>
