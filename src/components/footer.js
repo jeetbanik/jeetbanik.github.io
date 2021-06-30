@@ -84,13 +84,14 @@ const Footer = () => {
         </ul>
       </StyledSocialLinks>
       <StyledCredit tabindex="-1">
-        <div>Last Updated on Oct 12th, 2020.</div>
-	      <div><a href="https://github.com/bchiang7/v4">
+        <div>Last Updated on June 30th, 2021</div>
+	<div><a href="https://github.com/bchiang7/v4">
           <div>Designed by Brittany Chiang</div>
         </a>
         <a href="https://github.com/jeetbanik/jeetbanik.github.io">
           <div>Revised by Jeet Banik</div>
         </a></div>
+        
       </StyledCredit>
     </StyledFooter>
   );

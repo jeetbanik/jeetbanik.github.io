@@ -141,14 +141,14 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hi there! I’m currently a final year student pursuing B.Sc. (Hons.) in Data Science and Analytics at <a href="https://www.jainuniversity.ac.in/">Jain University</a>, Bangalore.</p>
+            <p>Hi there! I’m currently a Junior Data Scientist at <a href="https://www.itcinfotech.com/about-us">ITC Infotech</a>. Belonging to the batch of 2021, I completed my B.Sc. (Hons.) in Data Science and Analytics from <a href="https://www.jainuniversity.ac.in/">Jain University</a>, holding a Distinction (9.07 CGPA). Recently, I was a <a href="https://dare2compete.com/awards/u/jeet-banik-1095514/2021">National Grand Finalist</a> in TVS Credit E.P.I.C Season 2 Analytics Challenge.</p>
 
             <p>
-              I mostly deal with numbers and models, providing insights statistically and scientifically. I'm learning my craft by working on side projects and guidance from some great mentors and peers. I love to develop things which help the community! The domain of AI has always been intriguing to me since boyhood and my goal is to provide significant contributions toward it someday.
+              I mostly deal with numbers and models, providing insights statistically and scientifically. I am learning my craft by working on projects and guidance from some great mentors and peers. I also love to develop things which help the community! The domain of AI has always been intriguing to me since boyhood and I aim to provide significant contributions toward it, for social good.
             </p>
 
             <p>
-              Also a <a href="https://credentials.edx.org/credentials/e259e06f9c0c46e5bd51dea7a01cf9ea/">Harvard University Certified Data Scientist</a>, I recently did my internship in Applied Machine Learning at IIT-K, where I was trained and worked under the supervision of Prof. L. Behera and received a <a href="../LOR.pdf">Letter of Recommendation</a>.
+              Also, <a href="https://credentials.edx.org/credentials/e259e06f9c0c46e5bd51dea7a01cf9ea/">Harvard University Certified in Data Science</a>, I was a Summer Intern at IIT-K, where I worked under the supervision of Prof. L. Behera and received a <a href="../LOR.pdf">Letter of Recommendation</a>.
             </p>
 
             <p>Here are some technologies I've been working with recently:</p>

@@ -52,9 +52,8 @@ const Hero = () => {
   const three = <h3 className="big-heading">I provide data-driven solutions to complex problems.</h3>;
   const four = (
     <p>
-      Student and practitioner of Data Science
-      with a keen interest in the field of Artificial Intelligence.
-      Most recently, I was a &nbsp; &nbsp; Summer Intern at IIT Kanpur.
+      Practitioner of Data Science with a keen interest in the field of Artificial Intelligence.
+      Currently, I'm a Junior Data Scientist at ITC Infotech based in Bangalore, India.
     </p>
   );
   const five = (

@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Jeet Banik',
     description:
-      'Jeet Banik is a student and practitioner of Data Science. He deals with numbers and models, providing data-driven solutions to complex problems.',
+      'Jeet Banik is a junior data scientist. He deals with numbers and models, providing data-driven solutions to complex problems.',
     siteUrl: 'https://jeetbanik.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
