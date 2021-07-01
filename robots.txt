@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://jeetbanik.github.io/sitemap.xml
+Host: https://jeetbanik.github.io
