@@ -1,6 +1,6 @@
 ---
 date: '2020-06-30'
-title: 'Summer Intern in Applied Machine Learning and Data Science'
+title: 'Summer Intern'
 company: 'IIT Kanpur'
 location: 'WFH because of the COVID-19'
 range: 'April 2020 - June 2020'
