@@ -1,6 +1,6 @@
 ---
 date: '2019-01-31'
-title: 'QC Lead in Data transcription for Swiggy'
+title: 'Data transcription for Swiggy'
 company: 'Awign Enterprises Pvt. Ltd.'
 location: 'Bangalore, India'
 range: 'December 2018 - January 2019'
